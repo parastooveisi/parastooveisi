@@ -1,5 +1,5 @@
-![](./profile-3d-contrib/profile-green-animate.svg)
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=dark)](https://git.io/streak-stats)
+![](./profile-3d-contrib/profile-season-animate.svg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=parastooveisi&theme=dark)](https://git.io/streak-stats)
 <!--
 **parastooveisi/parastooveisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
