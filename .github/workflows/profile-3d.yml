@@ -1,9 +1,13 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
-  workflow_dispatch:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  schedule: # 21:00 EST == 02:00 UTC
+    - cron: "0 2 * * *"
+  push:
+    branches: [ "main", "master" ]
+  pull_request:
+    branches: [ "main", "master" ]
 
 jobs:
   build:
